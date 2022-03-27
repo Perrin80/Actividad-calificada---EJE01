@@ -1,5 +1,3 @@
-# Mi primer proyecto Editado
+# Actividad calificada - EJE01
 
-Este es mi primer proyecto de node.
-
-Agregamos nuevas líneas
+Profesor, aquí podrá encontrar los archivos que permiten la publicación HTTP a través del puerto 3000.

@@ -1,10 +1,10 @@
 {
   "name": "actividad-calificada---eje01",
   "version": "1.0.0",
-  "description": "Este es mi primer proyecto de node.",
-  "main": "index.js",
+  "description": "Actividad Calificada - EJE01",
   "scripts": {
     "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,10 +12,17 @@
     "url": "git+https://github.com/Perrin80/Actividad-calificada---EJE01.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Claudio González Rodríguez",
   "license": "ISC",
+  "main": "index.js",
   "bugs": {
     "url": "https://github.com/Perrin80/Actividad-calificada---EJE01/issues"
   },
-  "homepage": "https://github.com/Perrin80/Actividad-calificada---EJE01#readme"
+  "homepage": "https://github.com/Perrin80/Actividad-calificada---EJE01#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
