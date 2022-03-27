@@ -1,0 +1,21 @@
+{
+  "name": "actividad-calificada---eje01",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de node.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perrin80/Actividad-calificada---EJE01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Perrin80/Actividad-calificada---EJE01/issues"
+  },
+  "homepage": "https://github.com/Perrin80/Actividad-calificada---EJE01#readme"
+}
